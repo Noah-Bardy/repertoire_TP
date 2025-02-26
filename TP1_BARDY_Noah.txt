@@ -1,1 +1,2 @@
 BARDY_Noah
+Dans cette partie, nous avons appris comment initialiser un git, créer des fichiers dedans, de nouvelles branches, se déplacer dans ces branches et des fichiers.
