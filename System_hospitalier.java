@@ -35,12 +35,12 @@ public class System_hospitalier {
 
     private String analyserRequete(Requête requête) {
         
-        return "requête analysée";
+        return "requête analysée";//ce sous-programme va prendre une requête en entrée et retourne le string "requête analysée"
     }
 
     private String comparerDonnes() {
         
-        return "Cluster trouvé";
+        return "Cluster trouvé";// ce sous programme va retourné cluster trouvé
     }
 
 }
